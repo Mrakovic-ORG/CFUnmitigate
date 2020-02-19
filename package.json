@@ -1,0 +1,9 @@
+{
+  "name": "CFUnmitigate",
+  "version": "1.2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "cloudscraper": "^4.6.0",
+    "request": "^2.88.2"
+  }
+}
